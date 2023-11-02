@@ -1,4 +1,4 @@
-package com.day2;
+package com.Day2;
 import java.util.Scanner;
 
 public class PositiveNumber {

@@ -1,4 +1,4 @@
-package com.day2;
+package com.Day2;
 
 public class Arithematic {
     public static void main(String[] args){

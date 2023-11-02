@@ -1,4 +1,4 @@
-package com.day1;
+package com.Day1;
 
 public class StringDemo {
     public static void main(String[] args) {
